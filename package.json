@@ -1,0 +1,49 @@
+{
+  "name": "@types/pokt-network__ed25519",
+  "version": "0.0.0",
+  "description": "TypeScript definitions for ed25519",
+  "main": "",
+  "scripts": {},
+  "bundleDependencies": false,
+  "author": "",
+  "contributors": [
+    {
+      "name": "Erik Mavrinac",
+      "url": "https://github.com/erikma"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Pabel Nunez Landestoy",
+      "email": "pabel@pokt.network",
+      "homepage": "https://github.com/pabelnl"
+    },
+    {
+      "name": "Luis C. de León",
+      "email": "luis@pokt.network",
+      "homepage": "https://github.com/luyzdeleon"
+    },
+    {
+      "name": "Wilson Garcia",
+      "email": "wilson@pokt.network",
+      "homepage": "https://github.com/wgarcia4190"
+    },
+    {
+      "name": "Alex Firmani",
+      "email": "alex@pokt.network",
+      "homepage": "https://github.com/nymd"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "dependencies": {
+    "@types/node": "*"
+  }
+}
